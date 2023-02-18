@@ -3,7 +3,7 @@ Please check out the HOI4D Challenge on the latest project website www.hoi4d.top
 ## Overview
 This code base provides a benchmark for the HOI4D challenge action segmentation task, and we provide the training code for two models, P4Transformer and PPTr.
 ## Challege
-For this challege, you need submmit a pred.npy file(your predicted results) to the leaderboard. The file pred.npy is a ndarray:(892, 150) which is the prediction of test_wolabel.h5.
+For this challege, you need submmit a pred.npy file(your predicted results) to the leaderboard. The file pred.npy is a ndarray:(892, 150) which is the prediction of test_wolabel.h5. You can download the example here: [Link](https://1drv.ms/u/s!ApQF_e_bw-USgjQCKg9hGJIijeqs?e=eGfohd)
 ## Install
 These packages are needed:
 ```
